@@ -76,7 +76,7 @@ rustのprintln!では変数を使うとき「{}」を使うので「:?」にな�
 ```
 cargo run
 ```
-などのコマンドを実行してファイルを実行してflagが取得できました。
+などのコマンドでファイルを実行してflagが取得できました。
 ## solver
 ```rust
 use xor_cryptor::XORCryptor;
